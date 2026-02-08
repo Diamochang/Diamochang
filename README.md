@@ -3,7 +3,9 @@
 
 ## Developing Environment 开发环境
 ### Opraterating Systems and Tools 操作系统及相关工具
-
+![Windows](https://img.shields.io/badge/-Windows-4AB6FF?style=for-the-badge&logo=Windows&logoColor=fff)
+![Kubuntu](https://img.shields.io/badge/-Kubuntu-0064FF?style=for-the-badge&logo=Kubuntu&logoColor=fff)
+![Android](https://img.shields.io/badge/-Android-34AA54?style=for-the-badge&logo=Android&logoColor=fff)
 ### Programming Languages 编程语言
 ![Top Langs 编程语言 TOP 榜](https://github-readme-stats.vercel.app/api/top-langs/?username=Diamochang)
 #### 前端语言
