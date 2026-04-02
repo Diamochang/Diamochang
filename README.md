@@ -4,7 +4,7 @@
 ## Developing Environment 开发环境
 ### Opraterating Systems and Tools 操作系统及相关工具
 ![Windows](https://img.shields.io/badge/-Windows-4AB6FF?style=for-the-badge&logo=Windows&logoColor=fff)
-![Kubuntu](https://img.shields.io/badge/-Kubuntu-0064FF?style=for-the-badge&logo=Kubuntu&logoColor=fff)
+![Debian](https://img.shields.io/badge/-Debian-D70A53?style=for-the-badge&logo=Debian&logoColor=fff)
 ![Android](https://img.shields.io/badge/-Android-34AA54?style=for-the-badge&logo=Android&logoColor=fff)
 ### Programming Languages 编程语言
 ![Top Langs 编程语言 TOP 榜](https://github-readme-stats.vercel.app/api/top-langs/?username=Diamochang)
@@ -14,6 +14,5 @@
 #### 后端语言（软件语言）及组件
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=fff)
-![PyQt](https://img.shields.io/badge/-PyQt-2CDE85?style=for-the-badge&logo=Qt&logoColor=fff)
 ## 数据统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diamochang) 
