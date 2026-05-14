@@ -1,7 +1,8 @@
 ## Hi, there! 你好！👋
 我是 Diamochang，一个现居贵州省贵阳市的学生开发者。
 
-头像只是临时头像，5 月 14 日之后将随同其它主用平台更换全新主要头像。
+头像是约稿的 OC，使用请遵守[《适用 Mike Wang 个人虚拟形象的补充协议》](https://diamochang.top/oc-license/)。画师：[山冶屺](https://www.mihuashi.com/profiles/679490?role=painter)。
+Character © 2026 Mike Wang (Diamochang) & 山冶屺.
 
 ## Developing Environment 开发环境
 ### Opraterating Systems and Tools 操作系统及相关工具
@@ -15,5 +16,7 @@
 #### 后端语言（软件语言）及组件
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=fff)
+### 人工智能大模型 LLMs
+DeepSeek、Qwen3.6、GLM 等。
 ## 数据统计
 ![GitHub Stats](https://github-profile-views-plum.vercel.app/github/Diamochang?theme=light)
