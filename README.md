@@ -1,7 +1,7 @@
 ## Hi, there! 你好！👋
 我是 Diamochang，一个现居贵州省贵阳市的学生开发者。
 
-头像是约稿的 OC，使用请遵守[《适用 Mike Wang 个人虚拟形象的补充协议》](https://diamochang.top/oc-license/)。画师：[山冶屺](https://www.mihuashi.com/profiles/679490?role=painter)。
+头像是约稿的 OC，使用请遵守[《适用 Mike Wang 个人虚拟形象的补充协议》](https://diamochang.top/oc-license/)。画师：[山野崎](https://www.mihuashi.com/profiles/679490?role=painter)。
 Character © 2026 Mike Wang (Diamochang) & 山冶屺.
 
 ## Developing Environment 开发环境
